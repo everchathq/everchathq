@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://i.imgur.com/TrXx8Cz.png" title="Everchat" alt="Everchat" height="40px"/>
+</p>
 
 <br/>
 

@@ -1,1 +1,1 @@
-# everchathq
+# Everchat

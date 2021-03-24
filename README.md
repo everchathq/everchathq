@@ -1,4 +1,8 @@
-# Everchat
+<img src="https://i.imgur.com/TrXx8Cz.png" title="Everchat" alt="Everchat" height="40px"/>
+
+<br/>
+
+## About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 

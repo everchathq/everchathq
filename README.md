@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://i.imgur.com/TrXx8Cz.png" title="Everchat" alt="Everchat" height="40px"/></a>
+<a href="#" cursor="default"><img src="https://i.imgur.com/TrXx8Cz.png" title="Everchat" alt="Everchat" height="40px"/></a>
 </p>
 
 <br/>

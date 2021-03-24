@@ -32,5 +32,5 @@ This is a `code` block.
 
 ## Core Team
 
-**Erik Fiala** -- Co-founder & CEO  
-**Patrik Ondrovic** -- Co-founder & CTO
+**Erik Fiala** Co-founder & CEO  
+**Patrik Ondrovic** Co-founder & CTO

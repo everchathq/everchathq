@@ -5,6 +5,18 @@
 
 <br/>
 
+#### Table of Contents
+- [Values](#values)
+- [Mission](#mission)
+- [Roadmap](#roadmap)
+  * [Stage 1 - The MVP](#stage-1---the-mvp)
+  * [Stage 2 - Discord Killer](#stage-2---discord-killer)
+  * [Stage 3 - Beyond Politics](#stage-3---beyond-politics)
+- [Team](#team)
+- [Terminology](#terminology)
+
+<br/>
+
 ## Values
 
 - **Democratic** 💪 - Communities have no central source of power. We give power to their members.
@@ -20,7 +32,7 @@
 
 <br/>
 
-**Fundamentals needed to succeed:**
+#### Fundamentals needed to succeed:
 - Egalitarianism
 - Free speech
 - Freedom of information

@@ -6,7 +6,7 @@
 
 # Everchat
 
-Everchat is the place to build communities. Our goal is to deliver equality and democratization into community decision-making process. 
+Everchat is the place to build communities. Our goal is to deliver equality and democratization into the community decision-making process. 
 
 Everchat is:
 - **Democratized** - Everchat communities have no admins. Instead, we give power to the community members.

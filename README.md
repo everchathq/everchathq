@@ -1,10 +1,12 @@
 <p align="center">
 <a href="#"><img src="https://i.imgur.com/TrXx8Cz.png" alt="Everchat" height="40px"/></a>
 </p>
+<p align="center"><i>The place to build communities.</i></p>
 
-Everchat is the place to build communities. Our goal is to deliver equality and democratization into the community decision-making process. Think of us as if Discord and Reddit had a baby. 👶
+<br/>
 
-Everchat is:
+## USPs
+
 - **Democratized** 💪 - Everchat communities have no admins. Instead, we give power to the community members.
 - **Anonymous** 🤡 - Everchat encourages the use of pseudonyms to make sure your identity won’t get compromised.
 - **Censorless** 📢 - Everchat doesn’t monitor what you post, but interferes if any criminal activity is reported.
@@ -12,16 +14,20 @@ Everchat is:
 
 <br/>
 
+## Mission
+
+Our mission is to equalize, democratize, and decentralize community decisions.
+
+<br/>
+
 ## Public Roadmap
 
 ### Stage 1
-
 - 1
 - 2
 - 3
 
 ### Stage 2
-
 - 1
 - 2
 - 3
@@ -29,6 +35,5 @@ Everchat is:
 <br/>
 
 ## Core Team
-
 **Erik Fiala** Co-founder & CEO  
 **Patrik Ondrovic** Co-founder & CTO

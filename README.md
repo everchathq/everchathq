@@ -4,9 +4,15 @@
 
 <br/>
 
-## About
+# Everchat
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Everchat is the place to build communities. Our goal is to deliver equality and democratization into community decision-making process. 
+
+Everchat is:
+- **Democratized** - Everchat communities have no admins. Instead, we give power to the community members.
+- **Anonymous** - Everchat encourages the use of pseudonyms to make sure your identity won’t get compromised.
+- **Censorless** - Everchat doesn’t monitor what you post, but interferes if any criminal activity is reported.
+- **Free** - Everchat is free forever, but we’ll be introducing a paid `Pro` tier for the most engaged members.
 
 <br/>
 

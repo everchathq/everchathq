@@ -8,12 +8,12 @@
 ## Table of Contents
 - [Values](#values)
 - [Mission](#mission)
-- [Preview](#Preview)
 - [Roadmap](#roadmap)
   * [Stage 1 - MVP](#stage-1---mvp)
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)
   * [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
   * [Stage 4 - Politics](#stage-4---politics)
+- [Preview](#Preview)
 - [Team](#team)
 - [Terminology](#terminology)
 
@@ -38,14 +38,6 @@
 - Freedom of information
 - Freedom of the press
 - Net neutrality
-
-<br/><br/>
-
-## Preview
-
-<p align="center">
-<a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
-</p>
 
 <br/><br/>
 
@@ -88,6 +80,12 @@ Users are able to govern communities.
 - Vote
 
 <br/><br/>
+
+## Preview
+
+<p align="center">
+<a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
+</p>
 
 ## Team
 

@@ -31,15 +31,29 @@
 
 ## Roadmap
 
-### Stage 1
-- 1
-- 2
-- 3
+### Stage 1 - The MVP
+Users are able to do the basics.  
+**Release:** May 2021
 
-### Stage 2
-- 1
-- 2
-- 3
+- Authentication
+- CRUD channels
+- CRUD posts
+- Upload images
+
+### Stage 2 - Discord Killer
+Users are able to interact with each other in better ways.  
+**Release:** November 2021
+
+- Live stream
+- Conference call
+
+### Stage 3 - Beyond Politics
+Users are able to govern communities.  
+**Release:** Unspecified
+
+- Stand for election
+- Propose community laws
+- Vote
 
 <br/>
 
@@ -49,3 +63,9 @@
 | :--- | :--- |
 | Erik Fiala | Co-founder, CEO |
 | Patrik Ondrovic | Co-founder, CTO |
+
+<br/>
+
+## Terminology
+**MVP** - minimum viable product
+**CRUD** - create, read, update, delete

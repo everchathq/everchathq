@@ -44,7 +44,7 @@
 ## Preview
 
 <p align="center">
-<a href="#"><img src="https://i.imgur.com/cMDOkZ0.png" alt="Everchat preview"/></a>
+<a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
 </p>
 
 <br/><br/>

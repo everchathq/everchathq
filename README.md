@@ -16,7 +16,14 @@
 
 ## Mission
 
-Our mission is to equalize, democratize, and decentralize community decisions.
+> Our mission is to equalize, democratize, and decentralize community decisions.
+
+**Fundamentals needed to succeed:**
+- Egalitarianism
+- Free speech
+- Freedom of information
+- Freedom of the press
+- Net neutrality
 
 <br/>
 
@@ -38,5 +45,5 @@ Our mission is to equalize, democratize, and decentralize community decisions.
 
 | Name | Role |
 | :--- | :--- |
-| **Erik Fiala** | Co-founder & CEO |
-| **Patrik Ondrovic** | Co-founder & CTO |
+| Erik Fiala | Co-founder & CEO |
+| Patrik Ondrovic | Co-founder & CTO |

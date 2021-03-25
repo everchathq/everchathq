@@ -9,9 +9,9 @@
 Everchat is the place to build communities. Our goal is to deliver equality and democratization into the community decision-making process. Think of us as if Discord and Reddit had a baby. 👶
 
 Everchat is:
-- **Democratized** 🗳 - Everchat communities have no admins. Instead, we give power to the community members.
+- **Democratized** 💪 - Everchat communities have no admins. Instead, we give power to the community members.
 - **Anonymous** 🤡 - Everchat encourages the use of pseudonyms to make sure your identity won’t get compromised.
-- **Censorless** 🗣 - Everchat doesn’t monitor what you post, but interferes if any criminal activity is reported.
+- **Censorless** 📢 - Everchat doesn’t monitor what you post, but interferes if any criminal activity is reported.
 - **Free** 🚀 - Everchat is free forever, but we’ll be introducing a paid `Pro` tier in the future.
 
 <br/>

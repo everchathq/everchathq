@@ -8,6 +8,7 @@
 ## Table of Contents
 - [Values](#values)
 - [Mission](#mission)
+- [Preview](#Preview)
 - [Roadmap](#roadmap)
   * [Stage 1 - MVP](#stage-1---mvp)
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)
@@ -37,6 +38,14 @@
 - Freedom of information
 - Freedom of the press
 - Net neutrality
+
+<br/><br/>
+
+## Preview
+
+<p align="center">
+<a href="#"><img src="https://i.imgur.com/cMDOkZ0.png" alt="Everchat preview"/></a>
+</p>
 
 <br/><br/>
 

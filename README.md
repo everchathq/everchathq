@@ -45,5 +45,5 @@
 
 | Name | Role |
 | :--- | :--- |
-| Erik Fiala | Co-founder & CEO |
-| Patrik Ondrovic | Co-founder & CTO |
+| Erik Fiala | Co-founder, CEO |
+| Patrik Ondrovic | Co-founder, CTO |

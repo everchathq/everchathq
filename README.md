@@ -13,9 +13,12 @@
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)
   * [Stage 3 - Beyond Politics](#stage-3---beyond-politics)
 - [Team](#team)
-- [Terminology](#terminology)
 
-<br/>
+#### Terminology
+**MVP** - minimum viable product  
+**CRUD** - create, read, update, delete  
+
+<br/><br/>
 
 ## Values
 
@@ -24,7 +27,7 @@
 - **Censorless** 📢 - We do not monitor what you post, but interfere if any criminal activity is reported.
 - **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.
 
-<br/>
+<br/><br/>
 
 ## Mission
 
@@ -39,7 +42,7 @@
 - Freedom of the press
 - Net neutrality
 
-<br/>
+<br/><br/>
 
 ## Roadmap
 
@@ -67,7 +70,7 @@ Users are able to govern communities.
 - Propose community laws
 - Vote
 
-<br/>
+<br/><br/>
 
 ## Team
 
@@ -75,9 +78,3 @@ Users are able to govern communities.
 | :--- | :--- |
 | Erik Fiala | Co-founder, CEO |
 | Patrik Ondrovic | Co-founder, CTO |
-
-<br/>
-
-#### Terminology
-**MVP** - minimum viable product  
-**CRUD** - create, read, update, delete  

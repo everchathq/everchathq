@@ -12,7 +12,7 @@ Everchat is:
 - **Democratized** - Everchat communities have no admins. Instead, we give power to the community members.
 - **Anonymous** - Everchat encourages the use of pseudonyms to make sure your identity won’t get compromised.
 - **Censorless** - Everchat doesn’t monitor what you post, but interferes if any criminal activity is reported.
-- **Free** - Everchat is free forever, but we’ll be introducing a paid `Pro` tier for the most engaged members.
+- **Free** - Everchat is free forever, but we’ll be introducing a paid `Pro` tier in the future.
 
 <br/>
 

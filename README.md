@@ -38,5 +38,5 @@ Our mission is to equalize, democratize, and decentralize community decisions.
 
 | Name | Role |
 | :--- | :--- |
-| Erik Fiala | Co-founder & CEO |
-| Patrik Ondrovic | Co-founder & CTO |
+| **Erik Fiala** | Co-founder & CEO |
+| **Patrik Ondrovic** | Co-founder & CTO |

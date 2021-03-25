@@ -67,5 +67,5 @@ Users are able to govern communities.
 <br/>
 
 ## Terminology
-**MVP** - minimum viable product
-**CRUD** - create, read, update, delete
+**MVP** - minimum viable product  
+**CRUD** - create, read, update, delete  

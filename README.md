@@ -9,7 +9,7 @@
 - [Values](#values)
 - [Mission](#mission)
 - [Roadmap](#roadmap)
-  * [Stage 1 - The MVP](#stage-1---the-mvp)
+  * [Stage 1 - MVP](#stage-1---mvp)
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)
   * [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
   * [Stage 4 - Politics](#stage-4---politics)
@@ -44,7 +44,7 @@
 
 ## Roadmap
 
-### Stage 1 - The MVP
+### Stage 1 - MVP
 Users are able to do the basics.  
 **Release:** May 2021
 

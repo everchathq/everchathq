@@ -7,7 +7,7 @@
 
 ## Values
 
-- **Democratized** 💪 - Communities have no central source of power. We give power to their members.
+- **Democratic** 💪 - Communities have no central source of power. We give power to their members.
 - **Anonymous** 🤡 - We encourage the use of pseudonyms to make sure your identity won’t get compromised.
 - **Censorless** 📢 - We do not monitor what you post, but interfere if any criminal activity is reported.
 - **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.

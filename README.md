@@ -5,7 +5,7 @@
 
 <br/>
 
-#### Table of Contents
+## Table of Contents
 - [Values](#values)
 - [Mission](#mission)
 - [Roadmap](#roadmap)
@@ -13,10 +13,7 @@
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)
   * [Stage 3 - Beyond Politics](#stage-3---beyond-politics)
 - [Team](#team)
-
-#### Terminology
-**MVP** - minimum viable product  
-**CRUD** - create, read, update, delete  
+- [Terminology](#terminology)  
 
 <br/><br/>
 
@@ -78,3 +75,9 @@ Users are able to govern communities.
 | :--- | :--- |
 | Erik Fiala | Co-founder, CEO |
 | Patrik Ondrovic | Co-founder, CTO |
+
+<br/><br/>
+
+## Terminology
+**MVP** - minimum viable product  
+**CRUD** - create, read, update, delete  

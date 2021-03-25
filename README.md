@@ -2,10 +2,6 @@
 <a href="#"><img src="https://i.imgur.com/TrXx8Cz.png" alt="Everchat" height="40px"/></a>
 </p>
 
-<br/>
-
-# Everchat
-
 Everchat is the place to build communities. Our goal is to deliver equality and democratization into the community decision-making process. Think of us as if Discord and Reddit had a baby. 👶
 
 Everchat is:

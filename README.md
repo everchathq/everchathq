@@ -27,7 +27,7 @@
 
 <br/>
 
-## Public Roadmap
+## Roadmap
 
 ### Stage 1
 - 1

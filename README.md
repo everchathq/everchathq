@@ -41,7 +41,7 @@
 
 <br/>
 
-## Core Team
+## Team
 
 | Name | Role |
 | :--- | :--- |

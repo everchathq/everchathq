@@ -11,9 +11,10 @@
 - [Roadmap](#roadmap)
   * [Stage 1 - The MVP](#stage-1---the-mvp)
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)
-  * [Stage 3 - Beyond Politics](#stage-3---beyond-politics)
+  * [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
+  * [Stage 4 - Politics](#stage-4---politics)
 - [Team](#team)
-- [Terminology](#terminology)  
+- [Terminology](#terminology)
 
 <br/><br/>
 
@@ -50,7 +51,8 @@ Users are able to do the basics.
 - Authentication
 - CRUD channels
 - CRUD posts
-- Upload images
+- Image
+- GIF
 
 ### Stage 2 - Discord Killer
 Users are able to interact with each other in better ways.  
@@ -59,7 +61,18 @@ Users are able to interact with each other in better ways.
 - Live stream
 - Conference call
 
-### Stage 3 - Beyond Politics
+### Stage 3 - Media Upgrade
+Users are able to upload any type of media.  
+**Release:** Unspecified
+
+- Markdown
+- Voice recording
+- Code snippet
+- QR code
+- Sticker API
+- GIF API
+
+### Stage 4 - Politics
 Users are able to govern communities.  
 **Release:** Unspecified
 
@@ -81,3 +94,4 @@ Users are able to govern communities.
 ## Terminology
 **MVP** - minimum viable product  
 **CRUD** - create, read, update, delete  
+**API** - application programming interface  

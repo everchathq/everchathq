@@ -31,8 +31,6 @@
 
 > Our mission is to equalize, democratize, and decentralize community decisions.
 
-<br/>
-
 #### Fundamentals needed to succeed:
 - Egalitarianism
 - Free speech

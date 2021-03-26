@@ -109,6 +109,8 @@ Users are able to govern communities.
 <a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
 </p>
 
+<br/>
+
 ## Team
 
 | Name | Role |

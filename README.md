@@ -11,13 +11,12 @@
   * [Mission](#mission)
   * [Vision](#vision)
   * [Beliefs](#beliefs)
-- [Product](#product)
-  * [Roadmap](#roadmap)
-    + [Stage 1 - MVP](#stage-1---mvp)
-    + [Stage 2 - Discord Killer](#stage-2---discord-killer)
-    + [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
-    + [Stage 4 - Politics](#stage-4---politics)
-  * [Preview](#preview)
+- [Roadmap](#roadmap)
+  * [Stage 1 - MVP](#stage-1---mvp)
+  * [Stage 2 - Discord Killer](#stage-2---discord-killer)
+  * [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
+  * [Stage 4 - Politics](#stage-4---politics)
+- [Preview](#preview)
 - [Footnote](#footnote)
   * [Team](#team)
   * [Articles](#articles)
@@ -27,8 +26,6 @@
 <br/><br/>
 
 ## Company
-
-<br/>
 
 ### Values
 
@@ -60,13 +57,9 @@
 
 <br/><br/>
 
-## Product
+## Roadmap
 
-<br/>
-
-### Roadmap
-
-#### Stage 1 - MVP
+### Stage 1 - MVP
 Users are able to do the basics.  
 **Release:** May 2021
 
@@ -76,14 +69,14 @@ Users are able to do the basics.
 - Image
 - GIF
 
-#### Stage 2 - Discord Killer
+### Stage 2 - Discord Killer
 Users are able to interact with each other in better ways.  
 **Release:** November 2021
 
 - Live stream
 - Conference call
 
-#### Stage 3 - Media Upgrade
+### Stage 3 - Media Upgrade
 Users are able to upload any type of media.  
 **Release:** Unspecified
 
@@ -94,7 +87,7 @@ Users are able to upload any type of media.
 - Sticker API
 - GIF API
 
-#### Stage 4 - Politics
+### Stage 4 - Politics
 Users are able to govern communities.  
 **Release:** Unspecified
 
@@ -104,7 +97,7 @@ Users are able to govern communities.
 
 <br/><br/>
 
-### Preview
+## Preview
 
 <p align="center">
 <a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
@@ -112,8 +105,6 @@ Users are able to govern communities.
 
 
 ## Footnote
-
-<br/>
 
 ### Team
 

@@ -118,8 +118,8 @@ Users are able to govern communities.
 
 | Name | Role |
 | :--- | :--- |
-| Erik Fiala | Co-founder, CEO |
-| Patrik Ondrovic | Co-founder, CTO |
+| Erik Fiala | CEO |
+| Patrik Ondrovič | CTO |
 
 <br/>
 

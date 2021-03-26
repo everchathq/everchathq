@@ -69,12 +69,16 @@ Users are able to do the basics.
 - Image
 - GIF
 
+<br/>
+
 ### Stage 2 - Discord Killer
 Users are able to interact with each other in better ways.  
 **Release:** November 2021
 
 - Live stream
 - Conference call
+
+<br/>
 
 ### Stage 3 - Media Upgrade
 Users are able to upload any type of media.  
@@ -86,6 +90,8 @@ Users are able to upload any type of media.
 - QR code
 - Sticker API
 - GIF API
+
+<br/>
 
 ### Stage 4 - Politics
 Users are able to govern communities.  

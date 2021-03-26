@@ -17,8 +17,8 @@
   * [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
   * [Stage 4 - Politics](#stage-4---politics)
 - [Preview](#preview)
+- [Team](#team)
 - [Footnote](#footnote)
-  * [Team](#team)
   * [Articles](#articles)
   * [Sources](#sources)
   * [Terminology](#terminology)
@@ -109,17 +109,16 @@ Users are able to govern communities.
 <a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
 </p>
 
-
-## Footnote
-
-### Team
+## Team
 
 | Name | Role |
 | :--- | :--- |
 | Erik Fiala | Co-founder, CEO |
 | Patrik Ondrovic | Co-founder, CTO |
 
-<br/>
+<br/><br/>
+
+## Footnote
 
 ### Articles
 - 1

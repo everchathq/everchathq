@@ -8,6 +8,8 @@
 ## Table of Contents
 - [Values](#values)
 - [Mission](#mission)
+- [Vision](#vision)
+- [Beliefs](#beliefs)
 - [Roadmap](#roadmap)
   * [Stage 1 - MVP](#stage-1---mvp)
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)
@@ -15,6 +17,8 @@
   * [Stage 4 - Politics](#stage-4---politics)
 - [Preview](#Preview)
 - [Team](#team)
+- [Articles](#articles)
+- [Sources](#Sources)
 - [Terminology](#terminology)
 
 <br/><br/>
@@ -30,11 +34,19 @@
 
 ## Mission
 
-> Our mission is to equalize, democratize, and decentralize community decisions.
+> "Our mission is to equalize, democratize, and decentralize community decisions."
 
-#### Fundamentals needed to succeed:
+<br/><br/>
+
+## Vision
+
+> "Our vision is to be the place to go when creating online communities."
+
+<br/><br/>
+
+## Beliefs:
 - Egalitarianism
-- Free speech
+- Freedom of speech
 - Freedom of information
 - Freedom of the press
 - Net neutrality
@@ -96,7 +108,21 @@ Users are able to govern communities.
 
 <br/><br/>
 
+## Articles
+- 1
+- 2
+- 3
+
+<br/><br/>
+
+## Sources
+- 1
+- 2
+- 3
+
+<br/><br/>
+
 ## Terminology
 **MVP** - minimum viable product  
 **CRUD** - create, read, update, delete  
-**API** - application programming interface  
+**API** - application programming interface

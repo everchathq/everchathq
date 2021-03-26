@@ -5,46 +5,53 @@
 
 <br/>
 
-## Table of Contents
-- [Values](#values)
-- [Mission](#mission)
-- [Vision](#vision)
-- [Beliefs](#beliefs)
-- [Roadmap](#roadmap)
-  * [Stage 1 - MVP](#stage-1---mvp)
-  * [Stage 2 - Discord Killer](#stage-2---discord-killer)
-  * [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
-  * [Stage 4 - Politics](#stage-4---politics)
-- [Preview](#Preview)
-- [Team](#team)
-- [Articles](#articles)
-- [Sources](#Sources)
-- [Terminology](#terminology)
+#### Table of Contents
+- [Company](#company)
+  * [Values](#values)
+  * [Mission](#mission)
+  * [Vision](#vision)
+  * [Beliefs](#beliefs)
+- [Product](#product)
+  * [Roadmap](#roadmap)
+    + [Stage 1 - MVP](#stage-1---mvp)
+    + [Stage 2 - Discord Killer](#stage-2---discord-killer)
+    + [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
+    + [Stage 4 - Politics](#stage-4---politics)
+  * [Preview](#preview)
+- [Footnote](#footnote)
+  * [Team](#team)
+  * [Articles](#articles)
+  * [Sources](#sources)
+  * [Terminology](#terminology)
 
 <br/><br/>
 
-## Values
+## Company
+
+<br/>
+
+### Values
 
 - **Democratic** 💪 - Communities have no central source of power. We give power to their members.
 - **Anonymous** 🤡 - We encourage the use of pseudonyms to make sure your identity won’t get compromised.
 - **Censorless** 📢 - We do not monitor what you post, but interfere if any criminal activity is reported.
 - **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.
 
-<br/><br/>
+<br/>
 
-## Mission
+### Mission
 
 > "Our mission is to equalize, democratize, and decentralize community decisions."
 
-<br/><br/>
+<br/>
 
-## Vision
+### Vision
 
 > "Our vision is to be the place to go when creating online communities."
 
-<br/><br/>
+<br/>
 
-## Beliefs:
+### Beliefs
 - Egalitarianism
 - Freedom of speech
 - Freedom of information
@@ -53,9 +60,13 @@
 
 <br/><br/>
 
-## Roadmap
+## Product
 
-### Stage 1 - MVP
+<br/>
+
+### Roadmap
+
+#### Stage 1 - MVP
 Users are able to do the basics.  
 **Release:** May 2021
 
@@ -65,14 +76,14 @@ Users are able to do the basics.
 - Image
 - GIF
 
-### Stage 2 - Discord Killer
+#### Stage 2 - Discord Killer
 Users are able to interact with each other in better ways.  
 **Release:** November 2021
 
 - Live stream
 - Conference call
 
-### Stage 3 - Media Upgrade
+#### Stage 3 - Media Upgrade
 Users are able to upload any type of media.  
 **Release:** Unspecified
 
@@ -83,7 +94,7 @@ Users are able to upload any type of media.
 - Sticker API
 - GIF API
 
-### Stage 4 - Politics
+#### Stage 4 - Politics
 Users are able to govern communities.  
 **Release:** Unspecified
 
@@ -93,36 +104,41 @@ Users are able to govern communities.
 
 <br/><br/>
 
-## Preview
+### Preview
 
 <p align="center">
 <a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
 </p>
 
-## Team
+
+## Footnote
+
+<br/>
+
+### Team
 
 | Name | Role |
 | :--- | :--- |
 | Erik Fiala | Co-founder, CEO |
 | Patrik Ondrovic | Co-founder, CTO |
 
-<br/><br/>
+<br/>
 
-## Articles
+### Articles
 - 1
 - 2
 - 3
 
-<br/><br/>
+<br/>
 
-## Sources
+### Sources
 - 1
 - 2
 - 3
 
-<br/><br/>
+<br/>
 
-## Terminology
+### Terminology
 **MVP** - minimum viable product  
 **CRUD** - create, read, update, delete  
 **API** - application programming interface

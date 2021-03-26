@@ -125,13 +125,13 @@ Users are able to govern communities.
 
 ### Employees
 
-We're not currently hiring, but check out this section from time to time to stay up to date. 🕑
+We're not currently hiring, but check out this section from time to time to stay up to date.
 
 <br/>
 
 ### Contributors
 
-We're looking for any form of help from the open-source community here on GitHub or elsewhere. Please reach out via erik@everch.at in case of any questions. 📬
+We're looking for any form of help from the open-source community here on GitHub or anywhere else. Please reach out via email erik@everch.at in case of any questions.
 
 <br/><br/>
 

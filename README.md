@@ -133,7 +133,7 @@ We're not currently hiring, but check out this section from time to time to stay
 
 ### Contributors
 
-We're looking for any form of help from the open-source community here on GitHub. Reach out to @erikfiala or @Patrikusss in case of any questions. 🙏
+We're looking for any form of help from the open-source community here on GitHub. Reach out erik[at]everch.at in case of any questions. 🙏
 
 <br/><br/>
 

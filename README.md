@@ -125,7 +125,7 @@ Users are able to govern communities.
 
 ### Employees
 
-We're not currently hiring, but check out this section from time to time to stay up to date.
+Currently, we're not hiring, but check out this section from time to time to stay up to date.
 
 <br/>
 

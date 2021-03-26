@@ -113,16 +113,31 @@ Users are able to govern communities.
 
 ## Team
 
+### Co-founders
+
 | Name | Role |
 | :--- | :--- |
 | Erik Fiala | Co-founder, CEO |
 | Patrik Ondrovic | Co-founder, CTO |
+
+<br/>
+
+### Employees
+
+We're not currently hiring, but check out this section from time to time to stay up to date. 🕑
+
+<br/>
+
+### Contributors
+
+We're looking for any form of help from the open-source community here on GitHub. Reach out to @erikfiala or @Patrikusss in case of any questions. 🙏
 
 <br/><br/>
 
 ## Footnote
 
 ### Articles
+
 - 1
 - 2
 - 3
@@ -130,6 +145,7 @@ Users are able to govern communities.
 <br/>
 
 ### Sources
+
 - 1
 - 2
 - 3

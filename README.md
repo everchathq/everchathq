@@ -131,7 +131,7 @@ Currently, we're not hiring, but check out this section from time to time to sta
 
 ### Contributors
 
-We're looking for any form of help from the open-source community here on GitHub or anywhere else. Please reach out via email erik@everch.at in case of any questions.
+We're looking for any form of help from the open-source community here on GitHub or anywhere else. Please reach out via email contact@everch.at in case of any questions.
 
 <br/><br/>
 

@@ -92,6 +92,8 @@ Users are able to upload any type of media.
 
 <br/>
 
+<!--
+
 ### Stage 4 - Politics
 Users are able to govern communities.  
 **Release:** Unspecified
@@ -99,6 +101,8 @@ Users are able to govern communities.
 - Stand for election
 - Propose community laws
 - Vote
+
+-->
 
 <br/><br/>
 

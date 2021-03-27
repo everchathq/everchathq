@@ -10,12 +10,12 @@
 #### Table of Contents
 - [Everchat](#everchat)
   * [USPs](#usps)
+  * [Preview](#preview)
 - [Roadmap](#roadmap)
   * [Stage 1 - MVP](#stage-1---mvp)
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)
   * [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
   * [Stage 4 - Politics](#stage-4---politics)
-- [Preview](#preview)
 - [Company](#company)
   * [Mission](#mission)
   * [Vision](#vision)
@@ -44,9 +44,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - **Censorless** 📢 - We do not monitor what you post, but interfere if any criminal activity is reported.
 - **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.
 
-<br/><br/>
+<br/>
 
-## Preview
+### Preview
 
 <p align="center">
 <a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>

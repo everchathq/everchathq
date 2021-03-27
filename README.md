@@ -31,7 +31,7 @@
 
 <br/><br/>
 
-## Everchat
+# Everchat
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
 </p>
 
-## Roadmap
+# Roadmap
 
 ### Stage 1 - MVP
 Users are able to do the basics.  
@@ -98,7 +98,7 @@ Users are able to govern communities.
 
 <br/><br/>
 
-## Company
+# Company
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -129,7 +129,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br/><br/>
 
 
-## Team
+# Team
 
 ### Co-founders
 
@@ -152,7 +152,7 @@ We're looking for any form of help from the open-source community here on GitHub
 
 <br/><br/>
 
-## Footnote
+# Footnote
 
 ### Articles
 

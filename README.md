@@ -12,7 +12,7 @@
   * [About](#about)
   * [Mission](#mission)
   * [Vision](#vision)
-  * [Belief](#belief)
+  * [Beliefs](#beliefs)
 - [Everchat is...](#everchat-is)
 - [Roadmap](#roadmap)
   * [Stage 1 - MVP](#stage-1---mvp)
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br/>
 
-### Belief
+### Beliefs
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

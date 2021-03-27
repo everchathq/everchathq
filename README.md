@@ -9,10 +9,11 @@
 
 #### Table of Contents
 - [Company](#company)
-  * [Values](#values)
+  * [About](#about)
   * [Mission](#mission)
   * [Vision](#vision)
-  * [Beliefs](#beliefs)
+  * [Belief](#belief)
+- [Everchat is...](#everchat-is)
 - [Roadmap](#roadmap)
   * [Stage 1 - MVP](#stage-1---mvp)
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)

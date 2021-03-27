@@ -43,9 +43,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### USPs
 
-- **Democratic** 💪 - Communities have no central source of power. We give power to their members.
-- **Anonymous** 🤡 - We encourage the use of pseudonyms to make sure your identity won’t get compromised.
-- **Censorless** 📢 - We do not monitor what you post, but interfere if any criminal activity is reported.
+- **Democratic** 💪 - Everchat communities have no central source of power (admins). We give power to their members.
+- **Anonymous** 🤡 - Everchat encourages the use of pseudonyms to make sure your identity won’t get compromised.
+- **Censorless** 📢 - Everchat does not monitor what you post, but interferes if any criminal activity is reported.
 - **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.
 
 <br/>

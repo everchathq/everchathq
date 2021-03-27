@@ -76,6 +76,8 @@ Users are able to interact with each other in better ways.
 
 - Live stream
 - Conference call
+- Direct messages
+- Group messages
 
 <br/>
 
@@ -87,8 +89,8 @@ Users are able to upload any type of media.
 - Voice recording
 - Code snippet
 - QR code
-- Sticker API
-- GIF API
+- GIF library
+- Sticker library
 
 <br/>
 

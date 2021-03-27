@@ -8,18 +8,20 @@
 <br/>
 
 #### Table of Contents
-- [Company](#company)
+- [Everchat](#everchat)
   * [About](#about)
-  * [Mission](#mission)
-  * [Vision](#vision)
-  * [Beliefs](#beliefs)
-- [Everchat is...](#everchat-is)
+  * [USPs](#usps)
 - [Roadmap](#roadmap)
   * [Stage 1 - MVP](#stage-1---mvp)
   * [Stage 2 - Discord Killer](#stage-2---discord-killer)
   * [Stage 3 - Media Upgrade](#stage-3---media-upgrade)
   * [Stage 4 - Politics](#stage-4---politics)
 - [Preview](#preview)
+- [Company](#company)
+  * [About](#about-1)
+  * [Mission](#mission)
+  * [Vision](#vision)
+  * [Beliefs](#beliefs)
 - [Team](#team)
   * [Co-founders](#co-founders)
   * [Employees](#employees)
@@ -31,7 +33,7 @@
 
 <br/><br/>
 
-## Company
+## Everchat
 
 ### About
 
@@ -39,31 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br/>
 
-### Mission
-
-> "Our mission is to equalize, democratize, and decentralize community decisions."
-
-<br/>
-
-### Vision
-
-> "Our vision is to be the place to go when creating online communities."
-
-<br/>
-
-### Beliefs
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- Egalitarianism
-- Freedom of speech
-- Freedom of information
-- Freedom of the press
-- Net neutrality
-
-<br/><br/>
-
-## Everchat is...
+### USPs
 
 - **Democratic** 💪 - Communities have no central source of power. We give power to their members.
 - **Anonymous** 🤡 - We encourage the use of pseudonyms to make sure your identity won’t get compromised.
@@ -124,6 +102,39 @@ Users are able to govern communities.
 <a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
 </p>
 
+## Company
+
+### About
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<br/>
+
+### Mission
+
+> "Our mission is to equalize, democratize, and decentralize community decisions."
+
+<br/>
+
+### Vision
+
+> "Our vision is to be the place to go when creating online communities."
+
+<br/>
+
+### Beliefs
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- Egalitarianism
+- Freedom of speech
+- Freedom of information
+- Freedom of the press
+- Net neutrality
+
+<br/><br/>
+
+
 ## Team
 
 ### Co-founders
@@ -166,6 +177,7 @@ We're looking for any form of help from the open-source community here on GitHub
 <br/>
 
 ### Terminology
+**USP** - unique selling point  
 **MVP** - minimum viable product  
 **CRUD** - create, read, update, delete  
 **API** - application programming interface

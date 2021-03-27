@@ -9,7 +9,6 @@
 
 #### Table of Contents
 - [Everchat](#everchat)
-  * [About](#about)
   * [USPs](#usps)
 - [Roadmap](#roadmap)
   * [Stage 1 - MVP](#stage-1---mvp)
@@ -18,7 +17,6 @@
   * [Stage 4 - Politics](#stage-4---politics)
 - [Preview](#preview)
 - [Company](#company)
-  * [About](#about-1)
   * [Mission](#mission)
   * [Vision](#vision)
   * [Beliefs](#beliefs)
@@ -35,8 +33,6 @@
 
 ## Everchat
 
-### About
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br/>
@@ -49,6 +45,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.
 
 <br/><br/>
+
+## Preview
+
+<p align="center">
+<a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
+</p>
 
 ## Roadmap
 
@@ -96,15 +98,7 @@ Users are able to govern communities.
 
 <br/><br/>
 
-## Preview
-
-<p align="center">
-<a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
-</p>
-
 ## Company
-
-### About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

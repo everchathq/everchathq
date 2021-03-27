@@ -1,3 +1,5 @@
+<br/>
+
 <p align="center">
 <a href="#"><img src="https://i.imgur.com/TrXx8Cz.png" alt="Everchat" height="40px"/></a>
 </p>
@@ -30,12 +32,9 @@
 
 ## Company
 
-### Values
+### About
 
-- **Democratic** 💪 - Communities have no central source of power. We give power to their members.
-- **Anonymous** 🤡 - We encourage the use of pseudonyms to make sure your identity won’t get compromised.
-- **Censorless** 📢 - We do not monitor what you post, but interfere if any criminal activity is reported.
-- **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br/>
 
@@ -51,12 +50,24 @@
 
 <br/>
 
-### Beliefs
+### Belief
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 - Egalitarianism
 - Freedom of speech
 - Freedom of information
 - Freedom of the press
 - Net neutrality
+
+<br/><br/>
+
+## Everchat is...
+
+- **Democratic** 💪 - Communities have no central source of power. We give power to their members.
+- **Anonymous** 🤡 - We encourage the use of pseudonyms to make sure your identity won’t get compromised.
+- **Censorless** 📢 - We do not monitor what you post, but interfere if any criminal activity is reported.
+- **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.
 
 <br/><br/>
 

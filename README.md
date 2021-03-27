@@ -65,8 +65,8 @@ Users are able to do the basics.
 - Authentication
 - CRUD channels
 - CRUD posts
-- Image
-- GIF
+- Images
+- GIFs
 
 <br/>
 
@@ -75,7 +75,8 @@ Users are able to interact with each other in better ways.
 **Release:** November 2021
 
 - Live stream
-- Conference call
+- Conference call (voice and video)
+- Screen sharing
 - Direct messages
 - Group messages
 

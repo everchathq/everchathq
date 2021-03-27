@@ -7,6 +7,8 @@
 
 <br/>
 
+<!--
+
 #### Table of Contents
 - [Everchat](#everchat)
   * [USPs](#usps)
@@ -30,6 +32,8 @@
   * [Terminology](#terminology)
 
 <br/><br/>
+
+-->
 
 # Everchat
 

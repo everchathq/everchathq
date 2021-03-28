@@ -146,7 +146,7 @@ In 2015, Everchat started as a simple Chrome extension idea that would allow peo
 
 Fundamentally we strongly believe in egalitarianism (the doctrine that all people are equal and deserve equal rights and opportunities). Yet, almost every day, we experience today's social platforms taking advantage of their users. From selling data to advertisers, all the way to political and individual censorship. We do not want to get treated and thought of as a piece of data ourselves, and that's why we pledge that we will never sell any customer data to any 3rd party ever.
 
-We strive to achieve and operate based on three freedoms:
+We strive to achieve and operate based on three basic freedoms:
 - Freedom of speech
 - Freedom of information
 - Freedom of the press

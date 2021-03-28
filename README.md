@@ -82,7 +82,7 @@ Users are able to interact with each other in better ways.
 
 <br/>
 
-### Stage 3 - Media Upgrade
+### Stage 3 - Mediamorphosis
 Users are able to upload any type of media.  
 **Release:** Unspecified
 

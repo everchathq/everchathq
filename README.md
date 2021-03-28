@@ -53,7 +53,11 @@ Everchat is a cross-platform web app where people can build communities and talk
 ### Preview
 
 <p align="center">
-<a href="#"><img src="https://i.imgur.com/3zX22xi.png" alt="Everchat preview"/></a>
+<a href="#"><img src="https://i.imgur.com/3cLikw2.png" alt="Everchat on desktop"/></a>
+</p>
+
+<p align="center">
+<a href="#"><img src="https://i.imgur.com/dSRNDbV.png" alt="Everchat on mobile"/></a>
 </p>
 
 # Roadmap

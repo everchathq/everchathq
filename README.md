@@ -113,7 +113,7 @@ Users are able to govern communities.
 
 -->
 
-<br/><br/>
+<br/>
 
 # Company
 

@@ -183,6 +183,6 @@ We're looking for any form of help from the open-source community here on GitHub
 <br/>
 
 ### Terminology
-**USP** - unique selling point  
+**USP** - unique selling proposition  
 **MVP** - minimum viable product  
 **CRUD** - create, read, update, delete  

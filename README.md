@@ -43,9 +43,9 @@ Everchat is a cross-platform web app where people can build communities and talk
 
 ### USPs
 
-- **Democratic** 💪 - Everchat communities have no central source of power (admins). The power is distributed among all members equally.
+- **Democratic** 💪 - Everchat communities have no central source of power. The power is distributed among all members equally.
 - **Anonymous** 🤡 - Everchat encourages the use of pseudonyms to make sure your identity will not get compromised.
-- **Censorless** 📢 - Everchat does not monitor what you post, but interferes if any criminal activity is reported.
+- **Censorless** 📢 - Everchat does not monitor what you post, but we take criminal activity very seriously.
 - **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.
 
 <br/>

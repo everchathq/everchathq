@@ -65,7 +65,7 @@ Everchat is a cross-platform web app where people can build communities and talk
 # Roadmap
 
 ### Stage 1 - MVP
-Users are able to do the basics.  
+Users can do the basics.  
 **Release:** May 2021
 
 - Authentication
@@ -76,9 +76,17 @@ Users are able to do the basics.
 
 <br/>
 
-### Stage 2 - Discord Killer
-Users are able to interact with each other in better ways.  
+### Stage 2 - Extension
+Users can create or join channels anywhere on the Internet.  
 **Release:** November 2021
+
+- Chrome extension
+
+<br/>
+
+### Stage 3 - Discord Killer
+Users can interact with each other in better ways.  
+**Release:** Unspecified
 
 - Live stream
 - Conference call (voice and video)
@@ -88,23 +96,24 @@ Users are able to interact with each other in better ways.
 
 <br/>
 
-### Stage 3 - Mediamorphosis
-Users are able to upload any type of media.  
+### Stage 4 - Mediamorphosis
+Users can upload any media.  
 **Release:** Unspecified
 
 - Markdown
 - Voice recording
-- Code snippet
+- Direct video upload
+- Code snippets
 - QR code
 - GIF library
 - Sticker library
 
-<br/>
-
 <!--
 
-### Stage 4 - Politics
-Users are able to govern communities.  
+<br/>
+
+### Stage 5 - Politics
+Users can govern communities.  
 **Release:** Unspecified
 
 - Stand for election
@@ -113,11 +122,11 @@ Users are able to govern communities.
 
 -->
 
-<br/>
+<br/><br/>
 
 # Company
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Everchat started as a simple Chrome extension idea that would allow people to leave comments on any website out there. Later, we realized a much more significant potential of this application by creating a dedicated communication service. This extension will support delivering a better experience later on when introduced as an add-on to the main app.
 
 <br/>
 
@@ -166,7 +175,7 @@ Currently, we're not hiring, but check out this section from time to time to sta
 
 ### Contributors
 
-We're looking for any form of help from the open-source community here on GitHub or anywhere else. Please reach out via email contact@everch.at in case of any questions.
+We're looking for any form of help from the open-source community here on GitHub or anywhere else. Please reach out via email at contact@everch.at in case of any questions.
 
 <br/><br/>
 

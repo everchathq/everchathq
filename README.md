@@ -77,7 +77,7 @@ Users can do the basics.
 <br/>
 
 ### Stage 2 - Extension
-Users can create or join channels anywhere on the Internet.  
+Users can create or join channels anywhere on the internet.  
 **Release:** November 2021
 
 - Chrome extension
@@ -181,9 +181,10 @@ We're looking for any form of help from the open-source community here on GitHub
 
 ### Articles
 
-- 1
-- 2
-- 3
+- https://freedomhouse.org/countries/freedom-world/scores
+- https://en.unesco.org/unesco-series-on-internet-freedom
+
+<!--
 
 <br/>
 
@@ -192,6 +193,8 @@ We're looking for any form of help from the open-source community here on GitHub
 - 1
 - 2
 - 3
+
+-->
 
 <br/>
 

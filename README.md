@@ -37,7 +37,7 @@
 
 # Everchat
 
-Everchat is a cross-platform web app where people can build communities and talk about topics that matter to them in the easiest way ever. Nowadays, community-building tools out there have one central source of power—the admins. We see this as a problem in community development and equality as such. We are looking forward to be working on delivering the best possible experience to you—the individual.
+Everchat is a cross-platform web app where people can build communities and talk about topics that matter to them in the easiest way ever. Nowadays, community-building tools out there have one central source of power—the admins. We see this as a problem in community development and equality as such. That's why we focus on delivering the best possible experience to you—the individual.
 
 <br/>
 
@@ -59,6 +59,8 @@ Everchat is a cross-platform web app where people can build communities and talk
 <p align="center">
 <a href="#"><img src="https://i.imgur.com/dSRNDbV.png" alt="Everchat on mobile"/></a>
 </p>
+
+<br/>
 
 # Roadmap
 

@@ -117,13 +117,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Mission
 
-> "Our mission is to equalize, democratize, and decentralize community decisions."
+> "Our mission is to make communities thrive by democratization and decentralization."
 
 <br/>
 
 ### Vision
 
-> "Our vision is to be the place to go when creating online communities."
+> "Our vision is to be the #1 place for communities."
 
 <br/>
 

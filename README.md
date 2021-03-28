@@ -126,7 +126,7 @@ Users can govern communities.
 
 # Company
 
-Everchat started as a simple Chrome extension idea that would allow people to leave comments on any website out there. Later, we realized a much more significant potential of this application by creating a dedicated communication service. This extension will support delivering a better experience later on when introduced as an add-on to the main app.
+In 2015, Everchat started as a simple Chrome extension idea that would allow people to leave comments on any website out there. Despite many trials and errors, it's been in the ideation phase for a long time. In December 2019, we realized a more significant potential of this solution by creating a dedicated communication service supported by the extension. By doing this, we can deliver a much better experience for everyone.
 
 <br/>
 

@@ -69,6 +69,7 @@ Users can do the basics.
 **Release:** May 2021
 
 - Authentication
+- Search
 - CRUD channels
 - CRUD posts
 - Images

@@ -41,12 +41,12 @@ Everchat is a cross-platform web app where people can build communities and talk
 
 <br/>
 
-### USPs
+### Why join
 
-- **Democratic** 💪 - Everchat communities have no central source of power. The power is distributed among all members equally.
-- **Anonymous** 🤡 - Everchat encourages the use of pseudonyms to make sure your identity will not get compromised.
-- **Censorless** 📢 - Everchat does not monitor what you post, but we take criminal activity very seriously.
-- **Free** 🚀 - Everchat is free and ad-free, but a paid `Pro` tier is on our roadmap.
+- **Have fun** 🤩 - Join channels that you can resonate with, find people you can connect with.
+- **Get inspired** 🎨 - Find interesting topics and join the discussion. Your opinion matters.
+- **Stay safe** 🔒 - Only show what you want. All your data is encrypted and secure.
+- **Be yourself** 👩‍🎤 - Anything you might be into is okay with us, whether you’re a weirdo or an average Joe.
 
 <br/>
 
@@ -127,13 +127,13 @@ Users can govern communities.
 
 # Company
 
-In 2015, Everchat started as a simple Chrome extension idea that would allow people to leave comments on any website out there. Despite many trials and errors, it's been in the ideation phase for a long time. In December 2019, we realized a more significant potential of this solution by creating a dedicated communication service supported by the extension. By doing this, we can deliver a much better experience for everyone.
+In 2015, Everchat started as a simple Chrome extension idea that would allow people to leave comments on any website out there. Its goal was to give people the ability to express towards any topic, website, article, etc. Despite many trials and errors, it's been in the ideation phase for a long time. In December 2019, we realized a more significant potential of this solution by creating a dedicated communication service supported by the extension. By doing this, we can deliver a much better experience for everyone.
 
 <br/>
 
 ### Mission
 
-> "Our mission is to make communities thrive by democratization and decentralization."
+> "Our mission is to secure, protect, and empower the <a href="https://en.wikipedia.org/wiki/Internet_freedom">Internet freedom</a>."
 
 <br/>
 

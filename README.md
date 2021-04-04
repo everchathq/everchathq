@@ -37,7 +37,7 @@
 
 # Everchat
 
-Everchat is a cross-platform web app where people can build communities and talk about topics that matter to them in the easiest way ever. Nowadays, community-building tools out there have one central source of power—the admins. We see this as a problem in community development and equality as such. That's why we focus on delivering the best possible experience to you—the individual.
+Everchat is an app where people can build communities and talk about topics that matter to them in the easiest way ever. Currently, community social networks are overly complicated; they collect and sell your data to advertisers (and other 3rd parties), and most sadly, if they don't like your opinion—they censor you. These are some of the many reasons why we decided to build Everchat for you.
 
 <br/>
 
@@ -77,15 +77,24 @@ Users can do the basics.
 
 <br/>
 
-### Stage 2 - Extension
-Users can create or join channels anywhere on the internet.  
+### Stage 2 - Port
+Users can use Everchat on iOS and Android devices.  
 **Release:** November 2021
+
+- iOS app
+- Android app
+
+<br/>
+
+### Stage 3 - Extension
+Users can create or join channels anywhere on the internet.  
+**Release:** Unspecified
 
 - Chrome extension
 
 <br/>
 
-### Stage 3 - Discord Killer
+### Stage 4 - Discord Killer
 Users can interact with each other in better ways.  
 **Release:** Unspecified
 
@@ -97,7 +106,7 @@ Users can interact with each other in better ways.
 
 <br/>
 
-### Stage 4 - Mediamorphosis
+### Stage 5 - Mediamorphosis
 Users can upload any media.  
 **Release:** Unspecified
 
@@ -113,7 +122,7 @@ Users can upload any media.
 
 <br/>
 
-### Stage 5 - Politics
+### Stage 6 - Politics
 Users can govern communities.  
 **Release:** Unspecified
 

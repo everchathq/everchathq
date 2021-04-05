@@ -3,7 +3,7 @@
 <p align="center">
 <a href="#"><img src="https://i.imgur.com/ctEM52s.png" alt="Everchat" height="40px"/></a>
 </p>
-<p align="center"><i>The place to build communities</i></p>
+<p align="center"><i>The place to build communities.</i></p>
 
 <br/>
 

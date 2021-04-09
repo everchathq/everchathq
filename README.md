@@ -37,7 +37,7 @@
 
 # Everchat
 
-Everchat is an app where people can build communities and talk about topics that matter to them in the easiest way ever. Currently, community social networks are overly complicated; they collect and sell your data to advertisers (and other 3rd parties), and most sadly, if they don't like your opinion—they censor you. These are some of the many reasons why we decided to build Everchat for you.
+Everchat is an app where people can build communities and talk about topics that matter to them in the easiest way ever. Nowadays, community social networks are overly complicated; they collect and sell your data to advertisers (and other 3rd parties), and most sadly, if they don't like your opinion—they censor you. These are some of the many reasons why we decided to build Everchat for you.
 
 <br/>
 

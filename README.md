@@ -142,7 +142,7 @@ In 2015, Everchat started as a simple Chrome extension idea that would allow peo
 
 ### Mission
 
-> "Our mission is to protect and empower Internet users worldwide by giving them a place to realize themselves."
+> "Our mission is to empower Internet users worldwide by giving them a place to realize themselves."
 
 <br/>
 

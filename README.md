@@ -43,8 +43,8 @@ Everchat is an app where people can build communities and talk about topics that
 
 ### Why join
 
-- **Have fun** 🤩 - Join channels that you can resonate with, find people you can connect with.
-- **Get inspired** 🎨 - Find interesting topics and join the discussion. Your opinion matters.
+- **Have fun** 🤩 - Join like-minded communities and find people you can resonate with.
+- **Get inspired** 🎨 - Discover interesting topics and join the discussion. Your opinion matters.
 - **Stay safe** 🔒 - Only show what you want. All your data is encrypted and secure.
 - **Be yourself** 👩‍🎤 - Anything you might be into is okay with us, whether you’re a weirdo or an average Joe.
 

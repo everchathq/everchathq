@@ -142,7 +142,9 @@ In 2015, Everchat started as a simple Chrome extension idea that would allow peo
 
 ### Mission
 
-> "Our mission is to secure, protect, and empower the <a href="https://en.wikipedia.org/wiki/Internet_freedom">Internet freedom</a>."
+Everchat is making <a href="https://en.wikipedia.org/wiki/Internet_freedom">Internet freedom</a> possible for everyone. We think people-first and want to create a fair, safe, and transparent environment for all Internet users.
+
+> "Our mission is to protect and empower Internet users all over the world by giving them a place to realize themselves."
 
 <br/>
 
